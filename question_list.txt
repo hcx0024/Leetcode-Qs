@@ -1,7 +1,7 @@
 Must-do Easy questions [ Download the list here ] :
-13. Roman to Integer
-20. Valid Parentheses
-21. Merge Two Sorted Lists
+13. Roman to Integer^^
+20. Valid Parentheses^^
+21. Merge Two Sorted Lists^^
 141. Linked List Cycle
 155. Min Stack
 169. Majority Element
